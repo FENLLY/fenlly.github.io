@@ -9,6 +9,12 @@ and downloads, such as the "End-To-End Encryption" and "Signal Messenger".
 
 That's all, and thanks!
 
+
+2009 ~ 2019
+
+(Since 2003 ~ 2008, In Hunan Province, China)
+
+
 > This is currently hosted on [GitHub.com/Fenlly](https://github.com/Fenlly):
 > [Fenlly/fenlly.github.io](https://github.com/Fenlly/fenlly.github.io)
 > and [Fenlly/favorites](https://github.com/Fenlly/favorites) .
