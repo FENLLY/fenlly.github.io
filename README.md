@@ -5,7 +5,7 @@ This informal home page is just standby for the [**Fenlly.org**](https://fenlly.
 (Coming soon).
 
 See also the [**favorites**](https://fenlly.org/favorites) for some favorite references
-and downloads, such as the "End-To-End Encrytion" and "Signal Messenger".
+and downloads, such as the "End-To-End Encryption" and "Signal Messenger".
 
 That's all, and thanks!
 
