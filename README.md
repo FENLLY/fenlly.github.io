@@ -1,8 +1,15 @@
-fenlly.github.io
+FENLLY - Free Education aNd Lifelong Learning Yard
 =================
 
-The standby [FENLLY](https://fenlly.org)'s website sources for ready.
+This informal home page is just standby for the [**Fenlly.org**](https://fenlly.org) .
 
-This [repo](https://github.com/Fenlly/fenlly.github.io) is also live in [https://fenlly.github.io](https://fenlly.github.io) .
+See also the [`favorites`](https://fenlly.org/favorites) for some favorite references
+and downloads, such as the "End-To-End Encrytion" and the "Signal Messenger".
 
-See the "[favorites repo](https://github.com/Fenlly/favorites)" for [some favorite downloads](https://fenlly.github.io/favorites).
+> They are hosted on [GitHub](https://github.com/Fenlly): [`Fenlly/fenlly.github.io`](https://github.com/Fenlly/fenlly.github.io) and [`Fenlly/favorites`](https://github.com/Fenlly/favorites) .
+>
+> So you can also access them by https://fenlly.github.io and https://fenlly.github.io/favorites .
+>
+> Welcome to submit issues and pull requests to us.
+
+That's all. Thanks!
