@@ -10,7 +10,7 @@ and downloads, such as the "End-To-End Encryption" and "Signal Messenger".
 That's all, and thanks!
 
 
-2009 ~ 2019
+2009 ~ 2020
 
 (Since 2003 ~ 2008, In Hunan Province, China)
 
