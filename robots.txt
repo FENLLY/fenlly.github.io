@@ -1,13 +1,15 @@
 #
-# robots.txt for fenlly.github.io
+# robots.txt for fenlly.org
 #
 
 User-Agent: *
-Allow: /favorites
-Disallow: /
+Allow: /favorites/
+#Allow: /p/*.html$
+Allow: /*.html$
+#Disallow: /
 
 
 #
 # Pingmin Fenlly Liu
-# 20181120 - 20190118
+# 20181120 - 20200927
 #
