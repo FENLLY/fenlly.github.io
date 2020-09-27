@@ -3,11 +3,11 @@
 #
 
 User-Agent: *
-Allow: /favorites/
-#Allow: /p/*.html$
-Allow: /*.html$
-#Disallow: /
-Disallow: /img/
+Allow: /$
+#Allow: /favorites/
+#Allow: /*.html$
+#Disallow: /img/
+Disallow: /
 
 
 #
