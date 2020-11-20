@@ -15,11 +15,3 @@ That's all, and thanks!
 2009 ~ 2020
 
 (Since 2003 ~ 2008, In Hunan Province, China(ROC & PRC))
-
-
-> This is currently hosted on [GitHub.com/FENLLY™](https://github.com/FENLLY):
-> [FENLLY™/fenlly.github.io](https://github.com/FENLLY/fenlly.github.io)
-> and [FENLLY™/favorites](https://github.com/FENLLY/favorites) .
-> So, you can also access them by [https://fenlly.github.io](https://fenlly.github.io)
-> and [https://fenlly.github.io/favorites](https://fenlly.github.io/favorites) ,
-> and welcome to submit your issues and pull requests to us!
