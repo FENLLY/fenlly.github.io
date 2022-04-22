@@ -21,5 +21,3 @@ That's all, and thanks!
 > Contact Us
 >
 > Email: Webmaster(at)Fenlly.org ["(at)" -> "@"]
->
-> or Email/iMessage: Pingmin(at)Fenlly.org ["(at)" -> "@"]
